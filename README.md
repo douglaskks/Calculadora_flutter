@@ -2,6 +2,9 @@
 
 Um aplicativo de calculadora desenvolvido em Flutter como projeto de aprendizado, apresentando uma interface moderna com tema dark e funcionalidades básicas de cálculo.
 
+<img width="342" height="761" alt="image" src="https://github.com/user-attachments/assets/41f68912-2cf7-449b-bfc8-77a67ab598aa" />
+
+
 ## ✨ Características
 
 - **Interface Dark**: Design moderno com tema escuro
